@@ -1,5 +1,5 @@
-char main_en[][] = {"    Terminal - main menu  ", "      AhnTri Terminal        \n", "Type help for help or o", "ther key for each apps.", ": command not found"}
-char ccalc_en[][] = {"\n    Start - AhnTri CCalc      ", "\n  [ Welcome to AhnTri Calc ], ", "For More, press [0] for help.", "Enter first number: ", "Enter second number: ", "Enter third number: ", "Your a: ", "Your b: ", "Addition:1, Sub:2, Mul:3, Div:4, Power 2:5, Power 3:6, sqrt: [10]"}
-char notes_en[][] = {"\nWelcome to AhnTri NoteTaker.\n", "Hint: press [Esc] or [Tab] to exit AhnTri NoteTaker\n"}
-char cal_en[][] = {"Calendar - Year 2021"}
+char main_en[][] = {"    Terminal - ana menu  ", "      AhnTri Terminal        \n", "yardim icin o yada help yazın", "her uygulama icin anahtar.", ": komut bulunamadi"}
+char ccalc_en[][] = {"\n    Basla - AhnTri CCalc      ", "\n  [ AhnTri Calc a hosgeldin ], ", "Daha Fazlasi icin, yardim icin [0] tusuna basin.", "Ilk numarayı girin: ", "Ikinci numarayi girin: ", "Ucuncu numarayı girin: ", "Senın a'in: ", "Senın b'in: ", "Ek:1, Alt:2, Mul:3, Bol:4, Guc 2:5, Guc 3:6, sqrt: [10]"}
+char notes_en[][] = {"\n AhnTri NoteTaker a hosgeldin.\n", "Ipucu: NoteTaker'dan cikmak için [Esc] yada [Tab]'e bas\n"}
+char cal_en[][] = {"Calendar - Yil 2021"}
 char timer_en[][] = {"AhnTri Stopwatch", "sec", "min", "h"}
